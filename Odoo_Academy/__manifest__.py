@@ -17,7 +17,7 @@
     'website': 'https://www.odoo.com',
     
     'category': 'Training'.
-    'versionb': '0.1',
+    'version': '0.1',
     
     'depends': ['base'],
     
