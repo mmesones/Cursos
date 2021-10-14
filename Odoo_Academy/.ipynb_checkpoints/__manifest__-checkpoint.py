@@ -1,4 +1,4 @@
-# -.- coding: UTF-8 -*-
+# -.- coding: utf-8 -*-
 
 {
     'name':'Odoo_Academy',
@@ -26,7 +26,6 @@
     ],
     
     'demo': [
-        
+        'demo/academy_demo.xml',
     ],
-    
 }
